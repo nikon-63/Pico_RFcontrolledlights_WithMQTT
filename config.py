@@ -1,0 +1,2 @@
+TX_PIN=27
+RX_PIN=22
